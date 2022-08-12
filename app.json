@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "newAppTask",
+    "slug": "newAppTask",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "newAppTask"
+}
